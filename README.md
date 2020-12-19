@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **so99ynoodles/so99ynoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="so99ynoodles' github stats" src="https://github-readme-stats.vercel.app/api?username=so99ynoodles&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" alt="so99ynoodles' github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so99ynoodles" />
+</a>
