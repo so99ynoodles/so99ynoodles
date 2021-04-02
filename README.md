@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="so99ynoodles' github stats" src="https://github-readme-stats.vercel.app/api?username=so99ynoodles&count_private=true&show_icons=true" />
@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" alt="so99ynoodles' github top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=so99ynoodles" />
 </a>
+
+-->
